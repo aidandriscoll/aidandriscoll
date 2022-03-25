@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Student developer, currently learning Java in school. 
+Previous intermediate experience in: Processing, HTML, CSS, JavaScript.
 <!--
 **aidandriscoll/aidandriscoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
