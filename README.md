@@ -1,5 +1,6 @@
 # Hi there 👋
-## I am a student developer, that is currently learning **Java** in school. 
+## I am a student developer, that is currently learning **Java, Python, and C++** in school.
+## Member and leader of a FTC at school.  
 ### I have previous intermediate experience in: Processing, HTML, CSS, JavaScript.
 <!--
 **aidandriscoll/aidandriscoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
